@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Oct 01 21:30:16 IST 2024","Tue Oct 01 21:30:32 IST 2024","15643","tests","test_browse_products","","","","TC_001: Verify user can log in with invalid credentials, then valid credentials",""
+"passed","Tue Oct 01 21:30:49 IST 2024","Tue Oct 01 21:30:49 IST 2024","164","tests","test_shopping","","","","TC_004: Verify user can proceed to checkout",""
+"passed","Tue Oct 01 21:30:49 IST 2024","Tue Oct 01 21:30:49 IST 2024","78","tests","test_shopping","","","","TC_003: Should add item from homepage to the cart ",""
+"passed","Tue Oct 01 21:30:48 IST 2024","Tue Oct 01 21:31:04 IST 2024","15758","tests","test_shopping","","","","TC_001: Verify user can successfully log in",""
+"passed","Tue Oct 01 21:30:32 IST 2024","Tue Oct 01 21:30:32 IST 2024","71","tests","test_browse_products","","","","TC_002: Should be able to browse items after successful login",""
+"passed","Tue Oct 01 21:31:04 IST 2024","Tue Oct 01 21:31:04 IST 2024","162","tests","test_shopping","","","","TC_001: Verify user can successfully log in",""
+"passed","Tue Oct 01 21:30:16 IST 2024","Tue Oct 01 21:30:17 IST 2024","670","tests","test_browse_products","","","","TC_001: Verify user can log in with invalid credentials, then valid credentials",""
